@@ -28,7 +28,7 @@ body {
 
 .header_menú{
     display: flex;
-    gap: 80px;
+    gap: 30px;
 }
 
 .header_menu_link{
